@@ -1,0 +1,305 @@
+wordnet
+
+Synonyms/Hypernyms (Ordered by Estimated Frequency) of noun example
+
+6 senses of example                                                     
+
+Sense 1
+example, illustration, instance, representative
+       => information
+           => cognition, knowledge, noesis
+               => psychological feature
+                   => abstraction, abstract entity
+                       => entity
+
+Sense 2
+model, example
+       => representation, mental representation, internal representation
+           => content, cognitive content, mental object
+               => cognition, knowledge, noesis
+                   => psychological feature
+                       => abstraction, abstract entity
+                           => entity
+
+Sense 3
+exemplar, example, model, good example
+       => ideal
+           => idea, thought
+               => content, cognitive content, mental object
+                   => cognition, knowledge, noesis
+                       => psychological feature
+                           => abstraction, abstract entity
+                               => entity
+
+Sense 4
+example, deterrent example, lesson, object lesson
+       => admonition, monition, warning, word of advice
+           => advice
+               => proposal
+                   => message, content, subject matter, substance
+                       => communication
+                           => abstraction, abstract entity
+                               => entity
+
+Sense 5
+case, instance, example
+       => happening, occurrence, occurrent, natural event
+           => event
+               => psychological feature
+                   => abstraction, abstract entity
+                       => entity
+
+Sense 6
+exercise, example
+       => lesson
+           => school assignment, schoolwork
+               => assignment
+                   => undertaking, project, task, labor
+                       => work
+                           => activity
+                               => act, deed, human action, human activity
+                                   => event
+                                       => psychological feature
+                                           => abstraction, abstract entity
+                                               => entity
+
+Hyponyms of noun example
+
+4 of 6 senses of example                                                
+
+Sense 1
+example, illustration, instance, representative
+       => apology, excuse
+       => exception
+       => precedent, case in point
+       => quintessence
+       => sample
+           => coupon
+           => cross section
+           => grab sample
+           => random sample
+           => tasting
+       => specimen
+
+Sense 2
+model, example
+       => lodestar, loadstar
+       => prototype, paradigm, epitome, image
+           => concentrate
+           => imago
+       => type specimen, holotype
+       => microcosm
+       => original, archetype, pilot
+       => template, templet, guide
+           => rhythm, speech rhythm
+       => prefiguration
+
+Sense 3
+exemplar, example, model, good example
+       => beauty, beaut
+       => pacesetter, pacemaker
+       => pattern
+       => prodigy
+
+Sense 5
+case, instance, example
+       => humiliation, mortification
+       => piece, bit
+       => time, clip
+
+Synonyms/Hypernyms (Ordered by Estimated Frequency) of noun example
+
+6 senses of example                                                     
+
+Sense 1
+example, illustration, instance, representative
+       => information
+
+Sense 2
+model, example
+       => representation, mental representation, internal representation
+
+Sense 3
+exemplar, example, model, good example
+       => ideal
+
+Sense 4
+example, deterrent example, lesson, object lesson
+       => admonition, monition, warning, word of advice
+
+Sense 5
+case, instance, example
+       => happening, occurrence, occurrent, natural event
+
+Sense 6
+exercise, example
+       => lesson
+
+Derived Forms of noun example
+
+5 of 6 senses of example                                                
+
+Sense 1
+example, illustration, instance, representative
+       RELATED TO->(adj) exemplary#2
+           => emblematic, exemplary, typic
+       RELATED TO->(verb) exemplify#1
+           => exemplify, represent
+       RELATED TO->(verb) exemplify#2
+           => exemplify, illustrate, instance
+
+Sense 2
+model, example
+       RELATED TO->(verb) exemplify#1
+           => exemplify, represent
+       RELATED TO->(verb) exemplify#2
+           => exemplify, illustrate, instance
+
+Sense 3
+exemplar, example, model, good example
+       RELATED TO->(adj) exemplary#1
+           => exemplary, model(prenominal)
+       RELATED TO->(verb) exemplify#2
+           => exemplify, illustrate, instance
+
+Sense 4
+example, deterrent example, lesson, object lesson
+       RELATED TO->(adj) exemplary#3
+           => admonitory, cautionary, exemplary, monitory, warning(prenominal)
+
+Sense 5
+case, instance, example
+       RELATED TO->(verb) exemplify#2
+           => exemplify, illustrate, instance
+
+Familiarity of noun example
+
+example used as a noun is common (polysemy count = 6)
+
+Coordinate Terms (sisters) of noun example
+
+6 senses of example                                                     
+
+Sense 1
+example, illustration, instance, representative
+    -> information
+       => datum, data point
+       => acquaintance, familiarity, conversance, conversancy
+       => fact
+       => example, illustration, instance, representative
+       => circumstance, condition, consideration
+       => background, background knowledge
+       => descriptor
+       => evidence, grounds
+       => predictor
+       => tip-off
+       => stimulation, stimulus, stimulant, input
+
+Sense 2
+model, example
+    -> representation, mental representation, internal representation
+       => overlap, convergence, intersection
+       => instantiation
+       => antitype
+       => stereotype
+       => schema, scheme
+       => image, mental image
+       => interpretation, reading, version
+       => phantasmagoria
+       => psychosexuality
+       => percept, perception, perceptual experience
+       => memory
+       => model, example
+       => appearance
+       => blur, fuzz
+       => abstractionism, unrealism
+       => concretism, concrete representation
+
+Sense 3
+exemplar, example, model, good example
+    -> ideal
+       => value
+       => paragon, idol, perfection, beau ideal
+       => criterion, standard
+       => exemplar, example, model, good example
+       => ego ideal
+
+Sense 4
+example, deterrent example, lesson, object lesson
+    -> admonition, monition, warning, word of advice
+       => example, deterrent example, lesson, object lesson
+
+Sense 5
+case, instance, example
+    -> happening, occurrence, occurrent, natural event
+       => accompaniment, concomitant, attendant, co-occurrence
+       => avalanche
+       => experience
+       => trouble
+       => treat
+       => miracle
+       => wonder, marvel
+       => thing
+       => episode
+       => eventuality, contingency, contingence
+       => beginning
+       => ending, conclusion, finish
+       => one-off
+       => periodic event, recurrent event
+       => change, alteration, modification
+       => error, computer error
+       => accident, stroke, fortuity, chance event
+       => fire
+       => incident
+       => discharge
+       => case, instance, example
+       => movement, motion
+       => failure
+       => success
+       => appearance
+       => destiny, fate
+       => disappearance
+       => disappearance
+       => contact, impinging, striking
+       => finish
+       => collapse
+       => interruption, break
+       => sound
+       => union
+       => news event
+       => flash
+       => convergence
+       => juncture, occasion
+       => outburst, burst, flare-up
+       => outbreak, eruption, irruption
+       => reverse, reversal, setback, blow, black eye
+       => boom, bonanza, gold rush, gravy, godsend, manna from heaven, windfall, bunce
+       => crash, collapse
+       => supervention
+
+Sense 6
+exercise, example
+    -> lesson
+       => exercise, example
+       => reading assignment
+       => history lesson
+
+Holonyms of noun example
+                                                                         
+
+Grep of noun example
+counterexample
+deterrent example
+example
+good example
+
+Overview of noun example
+
+The noun example has 6 senses (first 4 from tagged texts)
+                                        
+1. (45) example, illustration, instance, representative -- (an item of information that is typical of a class or group; "this patient provides a typical example of the syndrome"; "there is an example on page 10")
+2. (13) model, example -- (a representative form or pattern; "I profited from his example")
+3. (5) exemplar, example, model, good example -- (something to be imitated; "an exemplar of success"; "a model of clarity"; "he is the very model of a modern major general")
+4. (2) example, deterrent example, lesson, object lesson -- (punishment intended as a warning to others; "they decided to make an example of him")
+5. case, instance, example -- (an occurrence of something; "it was a case of bad judgment"; "another instance occurred yesterday"; "but there is always the famous example of the Smiths")
+6. exercise, example -- (a task performed or problem solved in order to develop skill or understanding; "you must work the examples at the end of each chapter in the textbook")
